@@ -1,6 +1,8 @@
 # BroadReach
 BroadReach Clinic Management System: BSC IT Pearson Level 3 ITDA301 - Project. Java Swing and Mysql
 
+MySQL Roles and Rules for Admin, Clinician, Community Healthcare Worker and Receptionist. 
+
 <img src="src/images/001.png">
 <img src="src/images/002.png">
 <img src="src/images/003.png">
